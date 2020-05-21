@@ -1,0 +1,8 @@
+2020.05.21 17:12:18.578 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:12:18.586 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:12:18.602 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:12:18.602 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:12:18.609 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:12:18.613 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:12:18.634 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:12:18.637 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression

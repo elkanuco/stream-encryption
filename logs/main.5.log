@@ -1,0 +1,504 @@
+2020.05.21 17:15:55.959 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:15:55.959 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 0MB streamed
+2020.05.21 17:15:55.971 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:15:55.985 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:15:55.986 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:15:55.987 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:15:56.059 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 1MB streamed
+2020.05.21 17:15:56.084 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 2MB streamed
+2020.05.21 17:15:56.110 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 3MB streamed
+2020.05.21 17:15:56.230 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 4MB streamed
+2020.05.21 17:15:56.271 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 5MB streamed
+2020.05.21 17:15:56.312 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 6MB streamed
+2020.05.21 17:15:56.350 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 7MB streamed
+2020.05.21 17:15:56.446 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 8MB streamed
+2020.05.21 17:15:56.473 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 9MB streamed
+2020.05.21 17:15:56.498 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 10MB streamed
+2020.05.21 17:15:56.520 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 11MB streamed
+2020.05.21 17:15:56.560 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 12MB streamed
+2020.05.21 17:15:56.577 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 13MB streamed
+2020.05.21 17:15:56.596 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 14MB streamed
+2020.05.21 17:15:56.617 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 15MB streamed
+2020.05.21 17:15:56.693 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 16MB streamed
+2020.05.21 17:15:56.718 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 17MB streamed
+2020.05.21 17:15:56.739 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 18MB streamed
+2020.05.21 17:15:56.778 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 19MB streamed
+2020.05.21 17:15:56.798 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 20MB streamed
+2020.05.21 17:15:56.818 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 21MB streamed
+2020.05.21 17:15:56.835 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 22MB streamed
+2020.05.21 17:15:56.889 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 23MB streamed
+2020.05.21 17:15:56.911 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 24MB streamed
+2020.05.21 17:15:56.931 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 25MB streamed
+2020.05.21 17:15:56.952 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 26MB streamed
+2020.05.21 17:15:57.020 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 27MB streamed
+2020.05.21 17:15:57.041 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 28MB streamed
+2020.05.21 17:15:57.061 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 29MB streamed
+2020.05.21 17:15:57.080 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 30MB streamed
+2020.05.21 17:15:57.119 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 31MB streamed
+2020.05.21 17:15:57.139 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 32MB streamed
+2020.05.21 17:15:57.158 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 33MB streamed
+2020.05.21 17:15:57.216 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 34MB streamed
+2020.05.21 17:15:57.235 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 35MB streamed
+2020.05.21 17:15:57.252 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 36MB streamed
+2020.05.21 17:15:57.269 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 37MB streamed
+2020.05.21 17:15:57.305 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 38MB streamed
+2020.05.21 17:15:57.323 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 39MB streamed
+2020.05.21 17:15:57.341 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 40MB streamed
+2020.05.21 17:15:57.362 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 41MB streamed
+2020.05.21 17:15:57.422 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 42MB streamed
+2020.05.21 17:15:57.451 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 43MB streamed
+2020.05.21 17:15:57.491 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 44MB streamed
+2020.05.21 17:15:57.528 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 45MB streamed
+2020.05.21 17:15:57.619 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 46MB streamed
+2020.05.21 17:15:57.650 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 47MB streamed
+2020.05.21 17:15:57.676 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 48MB streamed
+2020.05.21 17:15:57.721 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 49MB streamed
+2020.05.21 17:15:57.750 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 50MB streamed
+2020.05.21 17:15:57.775 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 51MB streamed
+2020.05.21 17:15:57.808 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 52MB streamed
+2020.05.21 17:15:57.879 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 53MB streamed
+2020.05.21 17:15:57.897 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 54MB streamed
+2020.05.21 17:15:57.915 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 55MB streamed
+2020.05.21 17:15:57.933 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 56MB streamed
+2020.05.21 17:15:57.970 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 57MB streamed
+2020.05.21 17:15:57.993 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 58MB streamed
+2020.05.21 17:15:58.016 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 59MB streamed
+2020.05.21 17:15:58.035 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 60MB streamed
+2020.05.21 17:15:58.093 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 61MB streamed
+2020.05.21 17:15:58.112 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 62MB streamed
+2020.05.21 17:15:58.132 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 63MB streamed
+2020.05.21 17:15:58.166 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 64MB streamed
+2020.05.21 17:15:58.184 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 65MB streamed
+2020.05.21 17:15:58.203 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 66MB streamed
+2020.05.21 17:15:58.222 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 67MB streamed
+2020.05.21 17:15:58.281 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 68MB streamed
+2020.05.21 17:15:58.299 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 69MB streamed
+2020.05.21 17:15:58.317 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 70MB streamed
+2020.05.21 17:15:58.334 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 71MB streamed
+2020.05.21 17:15:58.384 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 72MB streamed
+2020.05.21 17:15:58.403 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 73MB streamed
+2020.05.21 17:15:58.420 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 74MB streamed
+2020.05.21 17:15:58.438 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 75MB streamed
+2020.05.21 17:15:58.479 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 76MB streamed
+2020.05.21 17:15:58.501 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 77MB streamed
+2020.05.21 17:15:58.521 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 78MB streamed
+2020.05.21 17:15:58.538 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 79MB streamed
+2020.05.21 17:15:58.600 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 80MB streamed
+2020.05.21 17:15:58.639 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 81MB streamed
+2020.05.21 17:15:58.667 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 82MB streamed
+2020.05.21 17:15:58.709 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 83MB streamed
+2020.05.21 17:15:58.728 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 84MB streamed
+2020.05.21 17:15:58.745 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 85MB streamed
+2020.05.21 17:15:58.764 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 86MB streamed
+2020.05.21 17:15:58.818 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 87MB streamed
+2020.05.21 17:15:58.836 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 88MB streamed
+2020.05.21 17:15:58.854 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 89MB streamed
+2020.05.21 17:15:58.873 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 90MB streamed
+2020.05.21 17:15:58.913 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 91MB streamed
+2020.05.21 17:15:58.950 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 92MB streamed
+2020.05.21 17:15:58.988 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 93MB streamed
+2020.05.21 17:15:59.020 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 94MB streamed
+2020.05.21 17:15:59.087 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 95MB streamed
+2020.05.21 17:15:59.109 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 96MB streamed
+2020.05.21 17:15:59.132 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 97MB streamed
+2020.05.21 17:15:59.189 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 98MB streamed
+2020.05.21 17:15:59.206 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 99MB streamed
+2020.05.21 17:15:59.223 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 100MB streamed
+2020.05.21 17:15:59.241 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 101MB streamed
+2020.05.21 17:15:59.278 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 102MB streamed
+2020.05.21 17:15:59.298 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 103MB streamed
+2020.05.21 17:15:59.318 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 104MB streamed
+2020.05.21 17:15:59.338 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 105MB streamed
+2020.05.21 17:15:59.395 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 106MB streamed
+2020.05.21 17:15:59.415 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 107MB streamed
+2020.05.21 17:15:59.435 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 108MB streamed
+2020.05.21 17:15:59.455 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 109MB streamed
+2020.05.21 17:15:59.505 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 110MB streamed
+2020.05.21 17:15:59.534 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 111MB streamed
+2020.05.21 17:15:59.553 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 112MB streamed
+2020.05.21 17:15:59.609 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 113MB streamed
+2020.05.21 17:15:59.626 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 114MB streamed
+2020.05.21 17:15:59.644 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 115MB streamed
+2020.05.21 17:15:59.661 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 116MB streamed
+2020.05.21 17:15:59.717 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 117MB streamed
+2020.05.21 17:15:59.736 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 118MB streamed
+2020.05.21 17:15:59.755 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 119MB streamed
+2020.05.21 17:15:59.774 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 120MB streamed
+2020.05.21 17:15:59.809 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 121MB streamed
+2020.05.21 17:15:59.827 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 122MB streamed
+2020.05.21 17:15:59.846 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 123MB streamed
+2020.05.21 17:15:59.864 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 124MB streamed
+2020.05.21 17:15:59.921 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 125MB streamed
+2020.05.21 17:15:59.940 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 126MB streamed
+2020.05.21 17:15:59.958 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 127MB streamed
+2020.05.21 17:15:59.997 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 128MB streamed
+2020.05.21 17:16:00.016 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 129MB streamed
+2020.05.21 17:16:00.035 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 130MB streamed
+2020.05.21 17:16:00.054 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 131MB streamed
+2020.05.21 17:16:00.112 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 132MB streamed
+2020.05.21 17:16:00.133 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 133MB streamed
+2020.05.21 17:16:00.151 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 134MB streamed
+2020.05.21 17:16:00.169 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 135MB streamed
+2020.05.21 17:16:00.206 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 136MB streamed
+2020.05.21 17:16:00.225 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 137MB streamed
+2020.05.21 17:16:00.243 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 138MB streamed
+2020.05.21 17:16:00.260 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 139MB streamed
+2020.05.21 17:16:00.312 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 140MB streamed
+2020.05.21 17:16:00.330 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 141MB streamed
+2020.05.21 17:16:00.349 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 142MB streamed
+2020.05.21 17:16:00.368 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 143MB streamed
+2020.05.21 17:16:00.425 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 144MB streamed
+2020.05.21 17:16:00.442 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 145MB streamed
+2020.05.21 17:16:00.459 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 146MB streamed
+2020.05.21 17:16:00.496 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 147MB streamed
+2020.05.21 17:16:00.519 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 148MB streamed
+2020.05.21 17:16:00.540 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 149MB streamed
+2020.05.21 17:16:00.564 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 150MB streamed
+2020.05.21 17:16:00.625 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 151MB streamed
+2020.05.21 17:16:00.645 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 152MB streamed
+2020.05.21 17:16:00.662 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 153MB streamed
+2020.05.21 17:16:00.679 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 154MB streamed
+2020.05.21 17:16:00.713 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 155MB streamed
+2020.05.21 17:16:00.730 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 156MB streamed
+2020.05.21 17:16:00.747 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 157MB streamed
+2020.05.21 17:16:00.765 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 158MB streamed
+2020.05.21 17:16:00.821 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 159MB streamed
+2020.05.21 17:16:00.839 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 160MB streamed
+2020.05.21 17:16:00.859 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 161MB streamed
+2020.05.21 17:16:00.916 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 162MB streamed
+2020.05.21 17:16:00.936 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 163MB streamed
+2020.05.21 17:16:00.956 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 164MB streamed
+2020.05.21 17:16:00.977 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 165MB streamed
+2020.05.21 17:16:01.029 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 166MB streamed
+2020.05.21 17:16:01.052 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 167MB streamed
+2020.05.21 17:16:01.071 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 168MB streamed
+2020.05.21 17:16:01.090 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 169MB streamed
+2020.05.21 17:16:01.148 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 170MB streamed
+2020.05.21 17:16:01.167 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 171MB streamed
+2020.05.21 17:16:01.186 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 172MB streamed
+2020.05.21 17:16:01.205 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 173MB streamed
+2020.05.21 17:16:01.244 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 174MB streamed
+2020.05.21 17:16:01.263 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 175MB streamed
+2020.05.21 17:16:01.281 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 176MB streamed
+2020.05.21 17:16:01.331 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 177MB streamed
+2020.05.21 17:16:01.347 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 178MB streamed
+2020.05.21 17:16:01.364 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 179MB streamed
+2020.05.21 17:16:01.382 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 180MB streamed
+2020.05.21 17:16:01.419 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 181MB streamed
+2020.05.21 17:16:01.437 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 182MB streamed
+2020.05.21 17:16:01.456 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 183MB streamed
+2020.05.21 17:16:01.475 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 184MB streamed
+2020.05.21 17:16:01.530 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 185MB streamed
+2020.05.21 17:16:01.549 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 186MB streamed
+2020.05.21 17:16:01.567 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 187MB streamed
+2020.05.21 17:16:01.586 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 188MB streamed
+2020.05.21 17:16:01.648 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 189MB streamed
+2020.05.21 17:16:01.669 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 190MB streamed
+2020.05.21 17:16:01.692 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 191MB streamed
+2020.05.21 17:16:01.733 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 192MB streamed
+2020.05.21 17:16:01.753 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 193MB streamed
+2020.05.21 17:16:01.771 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 194MB streamed
+2020.05.21 17:16:01.789 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 195MB streamed
+2020.05.21 17:16:01.844 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 196MB streamed
+2020.05.21 17:16:01.862 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 197MB streamed
+2020.05.21 17:16:01.880 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 198MB streamed
+2020.05.21 17:16:01.898 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 199MB streamed
+2020.05.21 17:16:01.933 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 200MB streamed
+2020.05.21 17:16:01.950 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 201MB streamed
+2020.05.21 17:16:01.967 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 202MB streamed
+2020.05.21 17:16:01.984 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 203MB streamed
+2020.05.21 17:16:02.041 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 204MB streamed
+2020.05.21 17:16:02.060 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 205MB streamed
+2020.05.21 17:16:02.080 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 206MB streamed
+2020.05.21 17:16:02.098 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 207MB streamed
+2020.05.21 17:16:02.148 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 208MB streamed
+2020.05.21 17:16:02.165 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 209MB streamed
+2020.05.21 17:16:02.183 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 210MB streamed
+2020.05.21 17:16:02.222 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 211MB streamed
+2020.05.21 17:16:02.242 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 212MB streamed
+2020.05.21 17:16:02.265 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 213MB streamed
+2020.05.21 17:16:02.285 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 214MB streamed
+2020.05.21 17:16:02.345 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 215MB streamed
+2020.05.21 17:16:02.364 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 216MB streamed
+2020.05.21 17:16:02.383 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 217MB streamed
+2020.05.21 17:16:02.402 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 218MB streamed
+2020.05.21 17:16:02.437 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 219MB streamed
+2020.05.21 17:16:02.455 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 220MB streamed
+2020.05.21 17:16:02.474 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 221MB streamed
+2020.05.21 17:16:02.496 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 222MB streamed
+2020.05.21 17:16:02.559 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 223MB streamed
+2020.05.21 17:16:02.579 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 224MB streamed
+2020.05.21 17:16:02.598 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 225MB streamed
+2020.05.21 17:16:02.635 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 226MB streamed
+2020.05.21 17:16:02.653 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 227MB streamed
+2020.05.21 17:16:02.670 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 228MB streamed
+2020.05.21 17:16:02.687 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 229MB streamed
+2020.05.21 17:16:02.744 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 230MB streamed
+2020.05.21 17:16:02.763 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 231MB streamed
+2020.05.21 17:16:02.782 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 232MB streamed
+2020.05.21 17:16:02.799 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 233MB streamed
+2020.05.21 17:16:02.850 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 234MB streamed
+2020.05.21 17:16:02.868 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 235MB streamed
+2020.05.21 17:16:02.885 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 236MB streamed
+2020.05.21 17:16:02.903 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 237MB streamed
+2020.05.21 17:16:02.951 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 238MB streamed
+2020.05.21 17:16:02.969 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 239MB streamed
+2020.05.21 17:16:02.986 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 240MB streamed
+2020.05.21 17:16:03.038 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 241MB streamed
+2020.05.21 17:16:03.055 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 242MB streamed
+2020.05.21 17:16:03.073 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 243MB streamed
+2020.05.21 17:16:03.091 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 244MB streamed
+2020.05.21 17:16:03.126 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 245MB streamed
+2020.05.21 17:16:03.144 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 246MB streamed
+2020.05.21 17:16:03.162 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 247MB streamed
+2020.05.21 17:16:03.179 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 248MB streamed
+2020.05.21 17:16:03.236 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Written 249MB streamed
+2020.05.21 17:16:03.263 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Produced 250 MB streamed
+2020.05.21 17:16:03.265 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 262144036 bytes
+2020.05.21 17:16:03.290 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.290 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 861343 bytes
+2020.05.21 17:16:03.295 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.300 [INFO] com.github.elkanuco.stream.encryption.PgpServiceTest: Encrypted stream size is 0 MB
+2020.05.21 17:16:03.349 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.351 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.351 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.352 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.352 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.352 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.353 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.353 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.354 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.377 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.383 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.385 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.385 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.386 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.387 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.388 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.391 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.392 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.408 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.411 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.412 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.412 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.413 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.414 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.416 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.417 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.417 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.443 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.451 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.452 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.453 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.454 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.455 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.456 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.456 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.458 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.476 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.481 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.481 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.481 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.482 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.482 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.491 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.491 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.493 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.511 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.516 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.517 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.517 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.518 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.519 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.527 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.529 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.530 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.546 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.550 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.551 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.551 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.552 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.552 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.554 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.554 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.555 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.575 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.580 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.581 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.582 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.582 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.583 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.587 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.590 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.592 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.607 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.612 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.613 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.613 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.614 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.615 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.616 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.618 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.618 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.635 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.640 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.642 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.642 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.643 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.643 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.647 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.648 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.649 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.668 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.674 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.676 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.676 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.678 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.678 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.681 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.681 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.683 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.702 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.716 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.718 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.718 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.718 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.719 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.720 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.721 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.722 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.737 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.743 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.744 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.745 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.747 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.748 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.750 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.757 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.758 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.771 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.796 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.796 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.796 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.796 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.797 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.798 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.800 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.800 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.809 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.812 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.813 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.813 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.813 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.814 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.814 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.815 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.815 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.823 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.827 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.828 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.828 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.829 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.830 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.831 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.831 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.832 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.840 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.843 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.844 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.845 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.846 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.846 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.848 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.848 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.849 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.856 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.860 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.860 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.861 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.861 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.862 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.863 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 53 bytes
+2020.05.21 17:16:03.864 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.864 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.880 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.885 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.885 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.885 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.886 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.887 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.889 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.889 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:03.892 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.903 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.906 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.906 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.907 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.907 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.907 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.912 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.912 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 61 bytes
+2020.05.21 17:16:03.913 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.926 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.931 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.931 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.931 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.932 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:03.949 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:03.953 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:03.953 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 102 bytes
+2020.05.21 17:16:03.954 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:03.973 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:03.987 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:03.987 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:03.988 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:03.988 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:16.116 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 66600000 bytes
+2020.05.21 17:16:16.119 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:16.119 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 50132502 bytes
+2020.05.21 17:16:16.119 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:20.483 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:20.485 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:20.486 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:20.486 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:20.486 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:20.487 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:20.488 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:20.488 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:20.488 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:20.496 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:20.500 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:20.500 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:20.500 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:20.500 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:20.501 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:20.501 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:20.502 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:20.502 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:20.508 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:20.513 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:20.513 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:20.514 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:20.514 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:20.515 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:20.516 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:20.516 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:20.516 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:20.522 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:20.525 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:20.526 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:20.526 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:20.526 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:20.526 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:20.527 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:20.528 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
+2020.05.21 17:16:20.528 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:20.535 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Adding provider to java's security manager.
+2020.05.21 17:16:20.537 [DEBUG] com.github.elkanuco.stream.encryption.PgpService: Reading publick key.
+2020.05.21 17:16:20.537 [DEBUG] com.github.elkanuco.stream.encryption.PgpUtils: Starting PGP encryption.
+2020.05.21 17:16:20.537 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressing the stream
+2020.05.21 17:16:20.538 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypting the stream
+2020.05.21 17:16:20.538 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Compressed 25 bytes
+2020.05.21 17:16:20.538 [DEBUG] com.github.elkanuco.stream.encryption.PgpCompressionService: Finished compression
+2020.05.21 17:16:20.539 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Encrypted 55 bytes
+2020.05.21 17:16:20.539 [DEBUG] com.github.elkanuco.stream.encryption.PgpEncryptionService: Finished encryption
