@@ -1,0 +1,37 @@
+language: java
+sudo: false
+jdk:
+  - openjdk11
+before_deploy:
+- mvn help:evaluate -N -Dexpression=project.version|grep -v '\['
+- export project_version=$(mvn help:evaluate -N -Dexpression=project.version|grep
+  -v '\[')
+deploy:
+  provider: releases
+  api_key:
+    secure: QJ/p0G3T199dsWYpz66q5SV+LIyCmR6CNEazRKlpPXm2jSeEOUyYCDfrrtNoDHA+L2YzG3WKXQY8Zssrh8/B+Ms13DKdwYSEtlPxTvp6PYz0FIaUErTrfn22q3oSyF9ZRkrXdSS1WSMJp/5/N7Su7BZLf/eXJLr8Pn+twnllszNfnpKxEwWxrh7d6Y+JQzZveARKCNihMyauvWbAEXdGfn6S1GaT8A+2z4KhoCvLRbM1zngLACLBEMekchmeOJESms2Jv8Q5M+2fI5jtRaurj292XfHexP3NBgQMQyVYdpWpbAk3Aa/dX6ExrSV83VozI0rnIB37dt5/pxQY3SBVexuJ3qpDFmKFHIoMnFXx9Iz2JlRu5PC2zrUT+TBqFbMmaJvz/dyNe2DEQ0hQglED7D5hy7lxXi6KhmbaGjv9MvPEQrwa/KhfQPZJEy3KcfkHTn29d1caSMgTH6q5jNv4GK2VcBD5mUVZt2cvAy2BatcpHVY4FFawFG/M6HJWBceEih3uxBWZIrRfXWAmgYW87rx1zc78f21RfFP+psQyyajxwk6e7sWGHqyI+AxvZqnVfdhVBE9620DcR0tbPqTUjMKYtjTz6tX6Ir7GM8T1Cs44/Vm3vGZDQgTZbTzcCz2B63e2g8EZl8zX8mjJYQypq+ALCKypL3lPpzbNz5zdFqI=
+  file:
+    - target/stream-encryption-$project_version.jar
+  on:
+    repo: elkanuco/stream-encryption
+  name: $project_version
+  cleanup: 'false'
+## export GPG details
+before_install:
+  - echo $GPG_SECRET_KEYS | base64 --decode | $GPG_EXECUTABLE --import
+  - echo $GPG_OWNERTRUST | base64 --decode | $GPG_EXECUTABLE --import-ownertrust
+install:
+  mvn --settings .maven.xml install -DskipTests=true -Dgpg.skip -Dmaven.javadoc.skip=true -B -V
+## Build and release to maven central
+script:
+  - mvn clean deploy --settings .maven.xml -DskipTests=true -B -U -Prelease
+notifications:
+  email: false
+after_success:
+  - sonar-scanner
+  - mvn test jacoco:report coveralls:report
+  - mvn -Powasp verify
+addons:
+  sonarcloud:
+    organization: "ekanda-elkanuco"
+

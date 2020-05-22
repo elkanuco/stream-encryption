@@ -24,6 +24,7 @@ public class PgpService {
      *
      * @param inputStream     the stream to encrypt
      * @param publicKeyStream the public key stream
+     * @param executorService the executor service to execute the encryption threads
      * @return an wrapped stream encrypted; this must be closed
      */
     public InputStream encryptStream(
